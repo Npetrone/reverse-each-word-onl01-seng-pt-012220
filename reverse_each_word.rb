@@ -3,6 +3,7 @@
 #First solve it using `.each` Then utilize the same method using `.collect` to see the difference.
 
 
-def reverse_each_word
+def reverse_each_word(string)
+  
   
 end
